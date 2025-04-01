@@ -34,7 +34,7 @@
 
 - **디렉토리 구조**: `/챕터/챕터번호_이니셜.md` 형식으로 업로드
 - **예시**:
-  - `Chapter01/01_yunjeooong.md` ← 최윤정(yj)
+  - `Chapter01/01_yunjeooong.md`
 
 ---
 
